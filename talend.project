@@ -92,6 +92,8 @@
       <relatedItems xmi:id="_AuDBF5-bEeaKC9RtwJHOag" id="TalendDataGenerator" version="Latest" type="routine"/>
       <relatedItems xmi:id="_AuDBGJ-bEeaKC9RtwJHOag" id="TalendDate" version="Latest" type="routine"/>
       <relatedItems xmi:id="_AuDBGZ-bEeaKC9RtwJHOag" id="Mathematical" version="Latest" type="routine"/>
+      <relatedItems xmi:id="_SWSOYKAwEeaS37F6aLCPqA" id="_WUy6EKAqEeaS37F6aLCPqA" version="Latest" type="property"/>
+      <relatedItems xmi:id="_SWSOYaAwEeaS37F6aLCPqA" id="_WUy6EKAqEeaS37F6aLCPqA - Employee_Demo" version="Latest" type="schema"/>
     </ItemsRelations>
     <migrationTask xmi:id="_rYUWcJ-WEeaKC9RtwJHOag" id="org.talend.designer.core.ui.preferences.migration.ChangeMysqlVersionForProjectSetting" breaks="5.2.0" version="5.1.3" status="ok"/>
     <migrationTask xmi:id="_rYUWcZ-WEeaKC9RtwJHOag" id="org.talend.designer.core.ui.preferences.migration.ChangeOracleVersionForProjectSetting" breaks="5.2.0" version="5.2.1" status="ok"/>
