@@ -106,7 +106,7 @@
   </parameters>
   <node componentName="tRowGenerator" componentVersion="0.102" offsetLabelX="0" offsetLabelY="0" posX="128" posY="192">
     <elementParameter field="TEXT" name="UNIQUE_NAME" value="tRowGenerator_1" show="false"/>
-    <elementParameter field="TEXT" name="NB_ROWS" value="10" show="false"/>
+    <elementParameter field="TEXT" name="NB_ROWS" value="1" show="false"/>
     <elementParameter field="TABLE" name="VALUES" show="false">
       <elementValue elementRef="SCHEMA_COLUMN" value="PersonID"/>
       <elementValue elementRef="ARRAY" value="Numeric.random(3 ,100 )"/>
@@ -148,7 +148,7 @@
       <additionalProperties key="Comment" value=""/>
     </metadata>
     <nodeData xsi:type="MapperData">
-      <uiProperties shellMaximized="true"/>
+      <uiProperties/>
       <varTables sizeState="INTERMEDIATE" name="Var" minimized="true"/>
       <outputTables sizeState="INTERMEDIATE" name="Output_GPDB">
         <mapperTableEntries name="Employee_ID" expression="row1.PersonID " type="id_Integer"/>

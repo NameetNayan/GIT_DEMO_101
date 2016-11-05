@@ -15,12 +15,6 @@
     <parameters xmi:id="_1cLo0aAqEeaS37F6aLCPqA" key="CONN_PARA_KEY_USERNAME" value="gpmon"/>
   </TalendMetadata:DatabaseConnection>
   <orgomg.cwm.resource.relational:Catalog xmi:id="_f3kbYKArEeaS37F6aLCPqA" name="gpadmin" dataManager="_1cLBwKAqEeaS37F6aLCPqA">
-    <ownedElement xsi:type="orgomg.cwm.resource.relational:Schema" xmi:id="_f3kbYaArEeaS37F6aLCPqA" name="gp_toolkit"/>
-    <ownedElement xsi:type="orgomg.cwm.resource.relational:Schema" xmi:id="_f3kbYqArEeaS37F6aLCPqA" name="information_schema"/>
-    <ownedElement xsi:type="orgomg.cwm.resource.relational:Schema" xmi:id="_f3kbY6ArEeaS37F6aLCPqA" name="madlib"/>
-    <ownedElement xsi:type="orgomg.cwm.resource.relational:Schema" xmi:id="_f3kbZKArEeaS37F6aLCPqA" name="pg_aoseg"/>
-    <ownedElement xsi:type="orgomg.cwm.resource.relational:Schema" xmi:id="_f3kbZaArEeaS37F6aLCPqA" name="pg_bitmapindex"/>
-    <ownedElement xsi:type="orgomg.cwm.resource.relational:Schema" xmi:id="_f3kbZqArEeaS37F6aLCPqA" name="pg_catalog"/>
     <ownedElement xsi:type="orgomg.cwm.resource.relational:Schema" xmi:id="_f3kbZ6ArEeaS37F6aLCPqA" name="public">
       <ownedElement xsi:type="relational:TdTable" xmi:id="_i7UgQKArEeaS37F6aLCPqA" name="Employee_Demo" id="_i7T5MKArEeaS37F6aLCPqA" label="Employee_Demo" tableType="TABLE">
         <taggedValue xmi:id="_i7UgQaArEeaS37F6aLCPqA" tag="Comment" value=""/>
@@ -41,5 +35,11 @@
         </feature>
       </ownedElement>
     </ownedElement>
+    <ownedElement xsi:type="orgomg.cwm.resource.relational:Schema" xmi:id="_DNP9YKOLEeaeY7x2Ok0OJw" name="gp_toolkit"/>
+    <ownedElement xsi:type="orgomg.cwm.resource.relational:Schema" xmi:id="_DNP9YaOLEeaeY7x2Ok0OJw" name="information_schema"/>
+    <ownedElement xsi:type="orgomg.cwm.resource.relational:Schema" xmi:id="_DNP9YqOLEeaeY7x2Ok0OJw" name="madlib"/>
+    <ownedElement xsi:type="orgomg.cwm.resource.relational:Schema" xmi:id="_DNP9Y6OLEeaeY7x2Ok0OJw" name="pg_aoseg"/>
+    <ownedElement xsi:type="orgomg.cwm.resource.relational:Schema" xmi:id="_DNP9ZKOLEeaeY7x2Ok0OJw" name="pg_bitmapindex"/>
+    <ownedElement xsi:type="orgomg.cwm.resource.relational:Schema" xmi:id="_DNP9ZaOLEeaeY7x2Ok0OJw" name="pg_catalog"/>
   </orgomg.cwm.resource.relational:Catalog>
 </xmi:XMI>
